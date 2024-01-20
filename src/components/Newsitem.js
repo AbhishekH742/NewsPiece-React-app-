@@ -1,7 +1,5 @@
 import React from 'react'
 
-
-
 const Newsitem = (props) => {
   let { tittle, description, imgUrl, newsUrl, author, date, source } = props;
 
